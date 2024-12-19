@@ -1,5 +1,5 @@
 # CodingTool
-本程序为一款基于.Net Framework4.8平台的编码的工具
+本程序为一款基于.Net Framework4.8平台的编码工具
 支持导出格式包括：XML、mpp（Porjet）文档，其中mpp格式文档需本地安装有Project程序。
 支持导入格式：XML；
 支持自定义编码连接符号；
